@@ -29,19 +29,29 @@
 using namespace dealii;
 
 
+void describe( const Triangulation<2> &triangle )
+{
+    std::cout << "number of levels: " << triangle.n_levels() << std::endl;
+    std::cout << "number of cells: " << triangle.n_cells() << std::endl;
+    std::cout << "number of active cells: " << triangle.n_active_cells() << std::endl;
+}
+
+
+
 void first_grid()
 {
   Triangulation<2> triangulation;
 
   GridGenerator::hyper_cube(triangulation);
   triangulation.refine_global(4);
-
+  
+  triangulation.reset_all_manifolds();
+  describe(triangulation);
   std::ofstream out("grid-1.eps");
   GridOut       grid_out;
   grid_out.write_eps(triangulation, out);
   std::cout << "Grid written to grid-1.eps" << std::endl;
 }
-
 
 
 
@@ -73,19 +83,35 @@ void second_grid()
       triangulation.execute_coarsening_and_refinement();
     }
 
-
-  std::ofstream out("grid-2.eps");
+  triangulation.reset_all_manifolds();
+  describe(triangulation);
+  std::ofstream out("grid-2.svg");
   GridOut       grid_out;
-  grid_out.write_eps(triangulation, out);
+  grid_out.write_svg(triangulation, out);
 
-  std::cout << "Grid written to grid-2.eps" << std::endl;
+  std::cout << "Grid written to grid-2.svg" << std::endl;
 }
 
 
+
+void third_grid()
+{
+    Triangulation<2> triangulation;
+
+    const Point<2> center(1, 0);
+    const double radius = 1.0;
+    GridGenerator::hyper_ball(triangulation, center, radius);
+    triangulation.refine_global(4);
+
+    GridOut grid_out;
+    grid_out.write_eps(triangulation, out);
+
+}
 
 
 int main()
 {
   first_grid();
   second_grid();
+  third_grid();
 }

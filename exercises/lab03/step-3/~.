@@ -1,0 +1,1 @@
+alias mpicc='(spack location -i)/bin/mpich'

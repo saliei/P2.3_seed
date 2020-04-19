@@ -1,0 +1,10 @@
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/edit_cache.dir
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/rebuild_cache.dir
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/info.dir
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/strip_comments.dir
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/debug.dir
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/run.dir
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/release.dir
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/distclean.dir
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/step-08.dir
+/home/cs0uth/Documents/github/P2.3_seed/step08/parallel/CMakeFiles/runclean.dir

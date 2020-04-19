@@ -1,0 +1,184 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/local/opt/spack/linux-ubuntu16.04-x86_64/gcc-5.4.0/mpich-3.3-j5u4l3i4w5xjawupwn4gsrb43tg6wntz/bin/mpic++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
